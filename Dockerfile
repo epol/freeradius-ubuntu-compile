@@ -1,8 +1,3 @@
-# Questo dockerfile dovrebbe compilare un freeradius 3
-# Versione 0.1 - enrico
-#
-# Modifiche:
-# 170520 - scrittura
 FROM ubuntu:xenial
 MAINTAINER Enrico Polesel <epol@autistici.org>
 
