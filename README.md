@@ -1,6 +1,6 @@
 # freeradius-ubuntu-compile
 
-This Dockerfile creates a docker that compiles the freeradius server v3.0.15 in a ubuntu xenial enviroment.
+This Dockerfile creates a docker that compiles the freeradius server v3.0.16 in a ubuntu xenial enviroment.
 It is basically a copy-paste of instructions available at this [page](http://wiki.freeradius.org/building/Debian%20and%20Ubuntu).
 
 This is __not__ a container running freeradius.

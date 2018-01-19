@@ -3,4 +3,4 @@
 cd /root/
 git clone https://github.com/FreeRADIUS/freeradius-server.git
 cd freeradius-server
-git checkout release_3_0_15
+git checkout release_3_0_16
